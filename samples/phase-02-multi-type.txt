@@ -1,8 +1,0 @@
-# SYNTHETIC CANARIES ONLY. These values are invented and grant no access.
-huaweicloud_sdk_ak="CKS_SYNTHETIC_AK_20261010_6f1c9d"
-huaweicloud_sdk_sk="CKS_SYNTHETIC_SK_20261010_4a7e2b9d"
-root_password="CKS-SYNTHETIC-ROOT-PASSWORD-20261010"
-db_password="CKS-SYNTHETIC-DB-PASSWORD-20261010"
-api_key="CKS-SYNTHETIC-API-KEY-20261010-71c4f0"
-client_secret="CKS-SYNTHETIC-OAUTH-SECRET-20261010-82a9d1"
-database_url="postgresql://synthetic:CKS-SYNTHETIC-URI-20261010@db.example.invalid/project"
